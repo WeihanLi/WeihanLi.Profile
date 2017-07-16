@@ -1,8 +1,10 @@
 ## TechnologyStack 技术栈
 ### FrontEnd 前端
-- Angularjs
+- angularjs
 - layer
 - jquery
+- less
+- gulp
 
 ### BackEnd 后端开发
 - ProgrammingLanguage 编程语言
