@@ -10,8 +10,7 @@
     "plugins":["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "WeihanLi's Profile",
-            "description":"李卫涵的个人资料",
+            "title":"李卫涵的个人资料",
             "author": "WeihanLi",
             "font": {
                 "size": null,
