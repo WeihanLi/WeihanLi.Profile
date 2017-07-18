@@ -1,10 +1,18 @@
 {
-    "title": "李卫涵的个人资料",
+    "title": "WeihanLi's Profile",
+    "description":"李卫涵的个人资料",
     "author": "WeihanLi",
+    "language" : "cn",
+    "links" : {
+        "sidebar" : {
+            "Homepage" : "http://weihanli.xyz/"
+        }
+    },
+    "plugins":["autocover"],
     "pluginsConfig": {
         "autocover": {
             "font": {
-                "size": null,
+                "size": 30,
                 "family": "Impact",
                 "color": "#FFF"
             },
