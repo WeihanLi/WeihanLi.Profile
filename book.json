@@ -1,5 +1,5 @@
 {
-    "title": "李卫涵的资料",
+    "title": "李卫涵的个人资料",
     "description":"李卫涵的个人资料",
     "author": "WeihanLi",
     "links" : {
@@ -13,14 +13,14 @@
             "font": {
                 "size": null,
                 "family": "Impact",
-                "color": "#000"
+                "color": "#FFF"
             },
             "size": {
                 "w": 1800,
                 "h": 2360
             },
             "background": {
-                "color": "#CCC"
+                "color": "#09F"
             }
         }
     }
