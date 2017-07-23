@@ -3,6 +3,7 @@
 - angularjs
 - layer
 - jquery
+- bootstrap
 - less
 - gulp
 
@@ -14,7 +15,7 @@
 
 - Database 数据库
     1. SqlServer
-    1. mySql
+    1. MySql
     
 - Log 日志
     1. log4net
@@ -23,7 +24,6 @@
 
 - Schedule 定时任务
     1. Quartz.NET
-    1. Hangfire
 
 - MessageQueue 消息队列
     1. Redis
@@ -54,7 +54,7 @@
 - win10 Iot Develop
 
 ### Tool & Skills
-- WebDevelopmentDebugTool Web开调试工具
+- WebDevelopmentDebugTool Web开发调试工具
     1. Fiddler
     1. Postman
     1. GoogleDeveloperTools
