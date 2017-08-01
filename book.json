@@ -6,24 +6,5 @@
         "sidebar" : {
             "Homepage" : "http://weihanli.xyz/"
         }
-    },
-    "plugins":["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "title":"李卫涵的个人资料",
-            "author": "WeihanLi",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        }
     }
 }
