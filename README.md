@@ -4,7 +4,7 @@
 
 个人资料
 
-- 在线版：<http://weihanli.xyz/WeihanLi.Profile/>
+- 在线版：<https://weihanli.github.io/WeihanLi.Profile/>
 - [下载PDF](https://www.gitbook.com/download/pdf/book/weihanli/weihanli-profile)
 
 ASP.NET 全栈工程师，热爱互联网，热爱新技术 
