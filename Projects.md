@@ -1,11 +1,6 @@
 ## Projects
 
-> ASP.NET WebForm Projects
-
-1. [河南理工大学明德网](http://218.196.240.149:8080/)
-
-    - 党委宣传部下的宣传、 通知和公告发布等
-    - 负责模块：后台功能开发
+> ASP.NET Projects
 
 1. [NewsCMS](https://github.com/WeihanLi/NewsCMS)
 
@@ -17,22 +12,9 @@
     - 响应式艺术品展览网站
     - 负责模块：后台功能开发
 
-> ASP.NET Mvc Projects
-
-1. [私密空间](https://github.com/WeihanLi/PrivateSpaceDemo)
-
-    - 功能仿QQ空间，聊天机器人
-    - 微信开发
-    - 独立开发
-
 1. [活动室预约](https://github.com/WeihanLi/ActivityReservation)
 
     - 学校多个活动室，不同时间段的提前预约申请及处理，申请表的打印，公告发布
-
-1. [权限控制示例](https://github.com/WeihanLi/AccessControlDemo)
-
-    - 基本权限控制示例
-    - ASP.NET MVC HtmlHelper自定义扩展 + 自定义权限控制策略
 
 > ASP.NET Core Projects
 
@@ -43,7 +25,7 @@
 1. [AccountingApp](https://github.com/WeihanLi/AccountingApp)
 
     - Simple Accounting App Powered by asp.net core
-    - asp.net core开发的简单记账应用
+    - asp.net core 开发的简单记账应用
 
 > Nuget packages
 
@@ -52,15 +34,17 @@
     - Simple,lightweight,easy to expand pager for asp.net mvc and asp.net core
     - 针对asp.net mvc 和 asp.net core 设计的通用、扩展性良好的轻量级分页扩展
 
-1. [EntityFramework.DbDescriptionHelper](https://github.com/WeihanLi/EntityFramework.DbDescriptionHelper)
-
-    - tool for EntityFramework generating database tables and columns description
-    - EF生成数据库描述工具
-
 1. [WeihanLi.Common](https://github.com/WeihanLi/WeihanLi.Common)
 
-    - Common .net library
-    - 常用公用 .net 类库
+    - .net 常用工具类，公共方法，常用扩展方法等，适用于 .net framwork 4.5 与 netstandard2.0
+
+1. [WeihanLi.Npoi](https://github.com/WeihanLi/WeihanLi.Npoi)
+
+    - Npoi 扩展，支持 Attribute 方式和 FluentApi 方式。适用于.netframework4.5及以上和 netstandard2.0, .netframework基于NPOI, .netstandard基于 DotNetCore.NPOI
+
+1. [WeihanLi.Redis](https://github.com/WeihanLi/WeihanLi.Redis)
+
+    - Redis 扩展，基于 StackExchange.Redis ，适用于.netframework4.5及以上和 netstandard2.0
 
 > Windows Store Apps
 
@@ -88,18 +72,19 @@
 
 1. [mini-toast](https://github.com/WeihanLi/mini_toast)
 
-    - 用 js 实现的一个仿微信通知消息的一个 toast通知效果，基于weui toast修改
+    - 用 js 实现的一个仿微信通知消息的一个 toast 通知效果，基于 weui toast修改
 
 1. [weihanli.github.io](https://github.com/WeihanLi/weihanli.github.io)
-    
-    - angularjs开发的个人主页
+
+    - angularjs + gulp 开发的个人主页
 
 > Translate Projects
 
-1. [StackExchange.Redis中文文档](http://weihanli.xyz/StackExchange.Redis-docs-cn/)
+1. [StackExchange.Redis 中文文档](http://weihanli.xyz/StackExchange.Redis-docs-cn/)
 
 1. [asp.net core 文档翻译](https://weihanli.gitbooks.io/asp-net-core-documentation/content/)
 
+1. [Roslyn 中文文档](https://github.com/WeihanLi/roslyn-docs-cn)
 
 > Other Projects
 
@@ -110,4 +95,4 @@
 
 1. 人脸识别门禁系统（毕业设计项目）
 
-    - 人脸识别系统（UWP+ASP.NET MVC+Win10IoT），基于树莓派的人脸识别智能门禁系统设计，人员录入系统与人脸识别门禁系统是两个UWP应用，WEB部分使用的是ASP.NET MVC技术是对微软人脸识别部分的API进行封装以及将人员信息录入本地数据库，硬件电路使用树莓派来控制，树莓派装的是Win10IoT系统，控制GPIO引脚的电平从而实现门禁的控制，实际做的过程中硬件电路中的门禁使用的是一个二极管来代表门禁的状态
+    - 人脸识别系统（UWP + ASP.NET MVC + Win10IoT），基于树莓派的人脸识别智能门禁系统设计，人员录入系统与人脸识别门禁系统是两个 UWP 应用，WEB 部分使用的是 ASP.NET MVC 技术是对微软人脸识别部分的 API 进行封装以及将人员信息录入本地数据库，硬件电路使用树莓派来控制，树莓派装的是 Win10IoT 系统，控制 GPIO 引脚的电平从而实现门禁的控制，实际做的过程中硬件电路中的门禁使用的是一个二极管来代表门禁的状态

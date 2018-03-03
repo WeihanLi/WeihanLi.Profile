@@ -1,5 +1,7 @@
 ## TechnologyStack 技术栈
+
 ### FrontEnd 前端
+
 - angularjs
 - layer
 - jquery
@@ -8,6 +10,7 @@
 - gulp
 
 ### BackEnd 后端开发
+
 - ProgrammingLanguage 编程语言
     1. C#
     1. Java
@@ -16,11 +19,14 @@
 - Database 数据库
     1. SqlServer
     1. MySql
-    
+
 - Log 日志
     1. log4net
     1. exceptionless
     1. sentry
+
+- Service
+    1. TopShelf
 
 - Schedule 定时任务
     1. Quartz.NET
@@ -34,26 +40,20 @@
 
 - Swagger 接口文档及调试
 
-- UnitTest 单元测试    
+- UnitTest 单元测试
     1. MsTest
-    1. NUnit
     1. XUnit
     1. Moq
 
-- IOC framework 
+- IOC framework
     1. AutoFac
 
 - CI/CD 持续集成/持续部署
     1. Travis
     1. AppVeyor
 
-### MobileDevelop & IotDevelop 移动开发
-- Cordova(for Android)
-- WindowsPhoneApp
-- UniversalWindowsApp
-- win10 Iot Develop
-
 ### Tool & Skills
+
 - WebDevelopmentDebugTool Web开发调试工具
     1. Fiddler
     1. Postman
