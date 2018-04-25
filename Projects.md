@@ -41,10 +41,13 @@
 1. [WeihanLi.Npoi](https://github.com/WeihanLi/WeihanLi.Npoi)
 
     - Npoi 扩展，支持 Attribute 方式和 FluentApi 方式。适用于.netframework4.5及以上和 netstandard2.0, .netframework基于NPOI, .netstandard基于 DotNetCore.NPOI
+    - 让你更好的操作 Excel
 
 1. [WeihanLi.Redis](https://github.com/WeihanLi/WeihanLi.Redis)
 
     - Redis 扩展，基于 StackExchange.Redis ，适用于.netframework4.5及以上和 netstandard2.0
+    - 更方便的使用泛型
+    - 支持压缩/自定义前缀
 
 > Windows Store Apps
 
@@ -61,12 +64,11 @@
 
 1. [Markdown2HtmlTool](https://github.com/WeihanLi/Markdown2HtmlTool)
 
-    - winform tool for transforming markdown to html
     - markdown转换为html小工具（支持Github Flavored Markdown)
 
 1. [DbTool](https://github.com/WeihanLi/DbTool)
 
-    - 数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档
+    - 数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档，根据文档生成数据库表，根据已有Model文件生成创建数据库表sql（正在使用 Electron.NET 重写）
 
 > FrontEnd Projects
 
@@ -76,7 +78,7 @@
 
 1. [weihanli.github.io](https://github.com/WeihanLi/weihanli.github.io)
 
-    - angularjs + gulp 开发的个人主页
+    - 个人主页，前端实践， angular/vue/angularjs
 
 > Translate Projects
 
@@ -87,11 +89,6 @@
 1. [Roslyn 中文文档](https://github.com/WeihanLi/roslyn-docs-cn)
 
 > Other Projects
-
-1. Odis
-
-    - Odis (angularjs + Cordova,Android)，零距离相机，图片处理合成。主要分为两大模块：图片合成和虚拟影像，图片合成是将两张图片各取一半合成为一张图片，虚拟影像可以实现图片透明度的调整从而使得两张图片融洽的合为一体
-    - 功能实现，安卓打包
 
 1. 人脸识别门禁系统（毕业设计项目）
 
