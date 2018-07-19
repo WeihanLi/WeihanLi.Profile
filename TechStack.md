@@ -3,6 +3,8 @@
 ### FrontEnd 前端
 
 - angularjs
+- angular
+- vue
 - layer
 - jquery
 - bootstrap
@@ -34,6 +36,7 @@
 - MessageQueue 消息队列
     1. Redis
     1. RabbitMQ
+    1. Kafka
 
 - Cache 缓存
     1. Redis
@@ -45,20 +48,22 @@
     1. XUnit
     1. Moq
 
-- IOC framework
+- Ioc framework
     1. AutoFac
+    1. Microsoft.Extensions.DependencyInjection
 
 - CI/CD 持续集成/持续部署
     1. Travis
     1. AppVeyor
+    1. CodeCov(单元测试覆盖率情况分析)
 
 ### Tool & Skills
 
-- WebDevelopmentDebugTool Web开发调试工具
+- WebDevTools Web开发调试工具
     1. Fiddler
     1. Postman
-    1. GoogleDeveloperTools
+    1. Chrome Developer Tools
 
-- VersionControlSystem 代码版本控制系统
+- VersionControlSystem 源代码版本控制系统
     1. git
     1. svn
