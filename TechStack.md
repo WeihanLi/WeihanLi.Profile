@@ -1,7 +1,10 @@
+# Profile
+
 ## TechnologyStack 技术栈
 
 ### FrontEnd 前端
 
+- Blazor
 - angularjs
 - angular
 - vue
@@ -21,8 +24,10 @@
 - Database 数据库
     1. SqlServer
     1. MySql
+    1. MongoDB
 
 - Log 日志
+    1. Serilog
     1. log4net
     1. exceptionless
     1. sentry
@@ -32,6 +37,7 @@
 
 - Schedule 定时任务
     1. Quartz.NET
+    1. Hangfire
 
 - MessageQueue 消息队列
     1. Redis
@@ -53,14 +59,17 @@
     1. Microsoft.Extensions.DependencyInjection
 
 - CI/CD 持续集成/持续部署
+    1. GitHub Actions
+    1. Azure DevOps Pipelines
     1. Travis
     1. AppVeyor
-    1. CodeCov(单元测试覆盖率情况分析)
 
 ### Tool & Skills
 
 - WebDevTools Web开发调试工具
+    1. HTTP Toolkit
     1. Fiddler
+    1. HTTPie
     1. Postman
     1. Chrome Developer Tools
 

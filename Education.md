@@ -1,3 +1,5 @@
+# Profile
+
 ## Education 教育经历
 
 ### Education 学历信息
@@ -7,9 +9,8 @@
 - 专业：电气工程及其自动化
 - 时间：2012.9 - 2016.6
 
-### English Skill
+### Language Skill
 
-- 听说：一般
-- 读写：良好
+**English**: 听说：一般, 读写：良好
 
 翻译过一些英文文档，熟练阅读英文文档

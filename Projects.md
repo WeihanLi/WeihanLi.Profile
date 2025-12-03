@@ -27,7 +27,7 @@
     - Simple Accounting App Powered by asp.net core
     - asp.net core 开发的简单记账应用
 
-> Nuget packages
+> NuGet packages
 
 1. [MvcSimplePager](https://github.com/WeihanLi/MvcSimplePager)
 
